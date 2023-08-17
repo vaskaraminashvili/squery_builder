@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.8.0",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "sass": "^1.57.1",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@inertiajs/vue3": "^1.0.0",
+        "@types/ziggy-js": "^1.3.2",
+        "@vitejs/plugin-vue": "^4.0.0",
+        "pluralize": "^8.0.0",
+        "vue-api-query": "^1.11.0",
+        "ziggy": "^2.4.0",
+        "ziggy-js": "^1.6.0"
+    }
+}
